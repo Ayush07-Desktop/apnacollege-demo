@@ -1,5 +1,5 @@
 # apnacollege-demo
 this is my second git repository.
 <br>
-Author - Ayush
+Author - Ayush(apna college)
 
